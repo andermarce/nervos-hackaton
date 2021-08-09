@@ -2,7 +2,7 @@
 
 1. Screenshot of successfully issued a smart contract call:
 
-![alt text](./image0-task2.png)
+![alt text](./image0-task3.png)
 
 2. Transaction hash: 0x2256d6f86e8ddf5a53266ddc4f0aa7190fc6d3f04f92c88955c6481faf77a70c
 
